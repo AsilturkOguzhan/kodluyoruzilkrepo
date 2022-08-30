@@ -49,8 +49,8 @@ istediğinizi tartışmak için bir konu açınız.
 [MIT](https://github.com/AsilturkOguzhan/kodluyoruzilkrepo/blob/main/LICENSE)
 
 
-# Patika Dev 
- [Linkim](https://app.patika.dev/oni)
+# Patika Dev Link
+ [Here](https://app.patika.dev/oni)
 
 
 
