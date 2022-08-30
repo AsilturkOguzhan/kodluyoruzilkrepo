@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 README dosyası, bir adet de index.html barındırıyor.
 
-![](C:\Users\Mr. Robot\github2\kodluyoruzilkrepo\img.png)
+![](https://github.com/AsilturkOguzhan/kodluyoruzilkrepo/blob/85c81aa4b9ab2c3c312884beca198ecc43280adb/img.png)
 
 
 
